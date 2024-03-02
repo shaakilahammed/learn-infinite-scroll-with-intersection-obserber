@@ -1,7 +1,7 @@
-import { Button } from 'keep-react';
+import ProductList from './components/ProductList';
 
 function App() {
-    return <Button size="md">Default</Button>;
+    return <ProductList />;
 }
 
 export default App;
